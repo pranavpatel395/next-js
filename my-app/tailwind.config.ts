@@ -1,4 +1,5 @@
 import type { Config } from "tailwindcss";
+const plugin = require('tailwindcss/plugin');
 const defaultTheme = require("tailwindcss/defaultTheme");
 const colors = require("tailwindcss/colors");
 const {
@@ -37,6 +38,7 @@ export default {
   },
   plugins: [
     addVariablesForColors,
+    require('tailwind-scrollbar'),
   ],
 } satisfies Config;
 
