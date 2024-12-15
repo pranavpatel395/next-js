@@ -1,0 +1,45 @@
+{
+  "corses": [
+  {
+    "id": 1,
+    "title": "Introduction to Python Programming",
+    "slug": "introduction-to-python-programming",
+    "description": "Learn the basics of Python programming, from syntax to simple projects.",
+    "price": 49.99,
+    "isFeatured": true
+    
+  },
+  {
+    "id": 2,
+    "title": "Web Development Bootcamp",
+    "slug": "web-development-bootcamp",
+    "description": "Master HTML, CSS, and JavaScript to build stunning websites from scratch.",
+    "price": 99.99,
+    "isFeatured": true
+  },
+  {
+    "id": 3,
+    "title": "Data Science Fundamentals",
+    "slug": "data-science-fundamentals",
+    "description": "A beginner-friendly course to explore data analysis and visualization techniques.",
+    "price": 129.99,
+    "isFeatured": true
+  },
+  {
+    "id": 4,
+    "title": "Digital Marketing Essentials",
+    "slug": "digital-marketing-essentials",
+    "description": "Learn strategies for SEO, social media, and content marketing to grow your business.",
+    "price": 79.99,
+    "isFeatured": true
+  },
+  {
+    "id": 5,
+    "title": "Machine Learning A-Z",
+    "slug": "machine-learning-a-z",
+    "description": "Comprehensive coverage of machine learning algorithms and their applications.",
+    "price": 149.99,
+    "isFeatured": true
+  }
+]
+}
