@@ -4,6 +4,8 @@ import Courses from "@/components/CorsesSections"
 import Animatedscoller from '@/components/AnimatedScroller'
 import MovingCardsLeft from "@/components/MovingCardsLeft";
 import FeatureWebinar from "@/components/FeatureWebinar";
+import Introctur from "@/components/Introctur";
+import Footer from "@/components/Footer";
 
 export default function Home() {
   return (
@@ -23,6 +25,12 @@ export default function Home() {
    <div>
     <FeatureWebinar/>
    </div>
+  <div>
+    <Introctur/>
+  </div>
+  <div>
+    <Footer/>
+  </div>
    </>
   );
 }

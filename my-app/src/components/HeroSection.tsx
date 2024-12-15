@@ -13,7 +13,7 @@ const HeroSEction = () => {
       />
       <div className="p-4 relative z-10 w-full text-center">
       <h1 className="bg-transparent text-5xl text-center mt-52 font-bold bg-clip-text text-transparent  bg-gradient-to-b from-neutral-50 to-neutral-50">
-        Master The Art of the music 
+        Master The Art of the Coding
       </h1>
       <p className="mt-4 font-normal text-base max-w-lg mx-auto text-center">Lorem ipsum dolor sit amet consectetur adipisicing elit. Rerum maiores sed eaque nihil nemo iste fugiat? Dolores delectus aut minus, assumenda quia animi  saepe aliquam.</p>
       <div className="mt-16"><Link href={"/courses"} >
